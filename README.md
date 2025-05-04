@@ -1,7 +1,8 @@
 <!-- 타이틀 부분 -->
 <div align="center">
-  <img src="" alt="banner or profile image"/>
+  <img width="848" alt="스크린샷 2025-05-04 오후 1 55 36" src="https://github.com/user-attachments/assets/5ced7c6e-7f7f-4237-84ea-2385bef1e136" />
 </div>
+
 
 <!-- 내용 부분 -->
 <h3 align="center">✨ Tech Stack ✨</h3>
@@ -14,7 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp
@@ -46,8 +46,9 @@
 
 <br>
 
+<h3 align="center">💻 GitHub stats 💻</h3>
 <div align="center">
-  ![05Daul's GitHub stats](https://github-readme-stats.vercel.app/api?username=05Daul&show_icons=true&theme=radical)
+![05Daul's GitHub stats](https://github-readme-stats.vercel.app/api?username=05Daul&show_icons=true&theme=radical)
 </div>
 
 <br>

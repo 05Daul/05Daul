@@ -45,6 +45,14 @@
 
 <br>
 
+<br>
+<div align="center">
+
+![05Daul's GitHub stats](https://github-readme-stats.vercel.app/api?05Daul=anuraghazra&show_icons=true&theme=radical)
+</div>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@elre519/posts">

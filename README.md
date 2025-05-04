@@ -48,7 +48,8 @@
 <br>
 <div align="center">
 
-![05Daul's GitHub stats](https://github-readme-stats.vercel.app/api?05Daul=anuraghazra&show_icons=true&theme=radical)
+![05Daul's GitHub stats](https://github-readme-stats.vercel.app/api?username=05Daul&show_icons=true&theme=radical)
+
 </div>
 
 <br>
